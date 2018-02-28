@@ -60,3 +60,5 @@ typings/
 secrets/
 *.secret.*
 *.secret
+.eslintrc
+.eslintrc.*
